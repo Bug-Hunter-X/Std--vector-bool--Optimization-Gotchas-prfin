@@ -1,0 +1,1 @@
+This example demonstrates the unexpected behavior of std::vector<bool> in C++.  The `vectorBoolBug.cpp` file shows how standard array access can lead to incorrect results. The `vectorBoolSolution.cpp` demonstrates a safer alternative using a different container.
